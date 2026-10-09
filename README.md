@@ -1,9 +1,7 @@
 # Array-dan-Arraylist
 
 
-Nama : Jihan Rahmadani
-NIM  : F1D02510060
-Kelas: 3B
+Nama : Jihan Rahmadani | NIM  : F1D02510060 | Kelas: 3B
 
 ## Deskripsi
 
